@@ -1,8 +1,9 @@
 ## Olá! Eu sou o Leonardo
 
 **`Desenvolvedora BackEnd`**
-
+    
 - 🔭 Hoje eu trabalho com back-end
+- 🧠 Futuro FullStack
 - 🌱 Estudando API RESTful com Spring Boot
 - 👯 Contate-me no email: leonardoribeirosouza.dev@gmail.com
 - 🤔 Pronomes: ele/dele
