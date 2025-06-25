@@ -86,5 +86,5 @@
     alt="GitHub Stats" 
     height="160px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoRibSouza&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=4" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoRibSouza&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=12" 
 />
