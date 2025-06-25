@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Leonardo
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora BackEnd`**
 
 - 🔭 Hoje eu trabalho com back-end
 - 🌱 Estudando API RESTful com Spring Boot
